@@ -1,1 +1,2 @@
 # Optimization-of-Course-Schedules
+This project focuses on developing a comprehensive system for scheduling college courses over a four-year period. Linear programming models were created to efficiently allocate courses and manage scheduling constraints. The primary goal was to minimize the average weekly workload for students while taking into account various factors such as course availability, prerequisites, and individual student preferences.
